@@ -93,7 +93,7 @@ body {
     font-family: 'Source Sans Pro', sans-serif;
     -webkit-font-smoothing: antialiased;
 	
-    background: url("../images/bigRedBlob.png") repeat center top;
+    background: url("../images/bigRedBlob.png") repeat center bottom;
 }
 
 ::selection {
