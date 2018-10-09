@@ -92,7 +92,8 @@ body {
     font-size: 14px;
     font-family: 'Source Sans Pro', sans-serif;
     -webkit-font-smoothing: antialiased;
-    background: #E4E4E4;
+    background: url("../images/bigRedBlob.png") no-repeat;
+
 }
 
 ::selection {
